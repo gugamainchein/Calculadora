@@ -12,8 +12,6 @@ Este é um projeto desenvolvido para fins de estudo, onde foram trabalhados os p
 
 ## Resultado Final
 
-Link: <a href="https://calc-react-js.herokuapp.com/">Calculadora</a>
-<br/>
 <img src="http://nr2b.com.br/img/backgrounds/imagem_2020-09-28_211818.png">
 
 ## Contatos
